@@ -1,0 +1,1 @@
+# Análise de Sentimento de Notícias Financeiras
