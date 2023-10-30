@@ -1,1 +1,0 @@
-# An-lise_Sentimento_Not-cias_Financeiras
